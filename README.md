@@ -6,7 +6,7 @@ This project aims to predict the Air Quality Index (AQI) using historical air po
 ## 📂 Dataset
 The dataset used for this project is named **"air quality data.csv"** and contains information on air pollutants of a specific time period. Some key points about the dataset:
 - Xylene has the highest percentage of missing values (61.86%)
-- PM10 and NH3 have missing values around 28 and 26%
+- PM10 and NH3 have missing values around 28% and 26%
 - The target variable is **AQI (Air Quality Index)**
 
 ## 🚀 Project Workflow
